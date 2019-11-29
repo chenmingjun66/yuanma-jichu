@@ -1,4 +1,4 @@
-package com.chenmingjun.yuanma.test;
+package com.chenmingjun.test;
 
 import java.util.HashMap;
 
